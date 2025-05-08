@@ -8,12 +8,29 @@ Liens et articles concernant l'éducation numérique aux jeunes
 * sites
 * loisirs
 * apprentissage / cours
-* sécurité parental
+
+## Internet
+* [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil): encyclopédie des 8-13 ans
+* [Y'a pas école ?](https://www.rts.ch/decouverte/y-a-pas-ecole/) : émissions pour réviser les programmes scolaires autrement que sur les bancs d’école
+* [Qwant junior](https://www.qwantjunior.com/) : moteur de recherche
+* [YouTubeKids](https://www.youtubekids.com/?hl=fr)
+
+## Education numérique
+* [#DansLaToile](https://www.rts.ch/play/tv/emission/danslatoile?id=8810939) : dessin animé sur l'éducation numérique
+* [éduclasse](https://www.educlasse.ch/): exercices éducation en ligne
+* [modulo](https://modulo-info.ch/): Modulo est un catalogue de ressources destiné à l'enseignement et à l'apprentissage de l'informatique au gymnase.
+
+## Control parental
+* [Quels films pour nos enfants?](https://www.filmspourenfants.net/)
+* [Médias](https://famigros.migros.ch/fr/enfants-et-adolescents/medias)
+* [Le premier smartphone de mon enfant](https://www.swisscom.ch/fr/about/durabilite/swisscom-campus/premier-smartphone-de-mon-enfant.html?campID=SEA_SE_R1GR2136_716379142449&gad_source=1&gad_campaignid=18606814235&gbraid=0AAAAADEdF42LP7AvY_yVc4T14P6qTiD3v#wofuer-smartphone=&acc-Ahz4MQ%5Bselected%5D%5B%5D=0)
 
 ## Robotique
 * [www.ecolerobots.com](https://www.ecolerobots.com/)
 * [LEGO Education SPIKE](https://spike.legoeducation.com/essential/start/)
 * [les meilleurs kits robots pour les debutants (article 2020)](https://www.lemonde.fr/guides-d-achat/article/2020/06/13/les-meilleurs-kits-robots-pour-les-debutants_6042730_5306571.html#huit-anchor-notre-premier-choix-)
+* [futurekids](https://futurekids.io/): activités innovantes pour apprendre les sciences informatiques et la robotique en s'amusant ! De 5 à 14 ans.
+* [ROBOSPHERE](https://www.robosphere.net/) : Espace ludactique à la Chaux-de-Fonds
 
 ## Programmation
 
