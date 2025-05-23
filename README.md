@@ -26,7 +26,7 @@ Liens et articles concernant l'éducation numérique aux jeunes
 * [Le premier smartphone de mon enfant](https://www.swisscom.ch/fr/about/durabilite/swisscom-campus/premier-smartphone-de-mon-enfant.html?campID=SEA_SE_R1GR2136_716379142449&gad_source=1&gad_campaignid=18606814235&gbraid=0AAAAADEdF42LP7AvY_yVc4T14P6qTiD3v#wofuer-smartphone=&acc-Ahz4MQ%5Bselected%5D%5B%5D=0)
 * [Médias numériques - de quelle protection et de quel espace de liberté les enfants ont-ils besoin ?](https://www.projuventute.ch/fr/parents/medias-et-internet/medias-numeriques-protection)
 * [Recommandations pour les parents d’enfants de 6 à 13 ans](https://www.jeunesetmedias.ch/recommandations/recommandations-pour-les-parents-denfants-de-6-a-13-ans)
-* [Ateliers en ligne pour soutenir les parents dans l’éducation numérique des enfants et jeunes](https://www.projuventute.ch/fr/parents/medias-et-internet/competences-numeriques-ateliers-parents)
+* [Ateliers en ligne pour soutenir les parents dans l’éducation numérique des enfants et jeunes](https://www.projuventute.ch/fr/parents/medias-et-internet/competences-numeriques-ateliers-parents) --> voir résumé des séances
 
 ## Robotique
 * [www.ecolerobots.com](https://www.ecolerobots.com/)
