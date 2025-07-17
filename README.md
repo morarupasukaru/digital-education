@@ -12,8 +12,10 @@ Liens et articles concernant l'éducation numérique aux jeunes
 ### Choix du système d'exploitation
 
 * Choix
-  ** [Primtux](https://primtux.fr/)
-  ** RasperriPi
+  * [Primtux](https://primtux.fr/)
+  * Raspian
+  * ...
+  * Windows
 
 ### Sélection logiciels
 
