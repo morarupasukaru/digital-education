@@ -10,7 +10,11 @@ Liens et articles concernant l'éducation numérique aux jeunes
 * loisirs
 * apprentissage / cours
 ### Choix du système d'exploitation
-...
+
+* Choix
+  ** [Primtux](https://primtux.fr/)
+  ** RasperriPi
+
 ### Sélection logiciels
 
 * paint
@@ -38,6 +42,7 @@ si possible offline
 * [#DansLaToile](https://www.rts.ch/play/tv/emission/danslatoile?id=8810939) : dessin animé sur l'éducation numérique
 * [éduclasse](https://www.educlasse.ch/): exercices éducation en ligne
 * [modulo](https://modulo-info.ch/): Modulo est un catalogue de ressources destiné à l'enseignement et à l'apprentissage de l'informatique au gymnase.
+* [Guide des Ressources Numériques Éducatives](https://primabord.eduscol.education.fr/guide-des-ressources-numeriques-educatives)
 
 ## Control parental
 * [Quels films pour nos enfants?](https://www.filmspourenfants.net/)
