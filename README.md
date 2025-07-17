@@ -1,6 +1,7 @@
 # digital-education
 Liens et articles concernant l'éducation numérique aux jeunes
 
+
 ## TODOs
 * en fonction de l'âge
 * matériels
@@ -8,12 +9,30 @@ Liens et articles concernant l'éducation numérique aux jeunes
 * sites
 * loisirs
 * apprentissage / cours
+### Choix du système d'exploitation
+...
+### Sélection logiciels
 
-## Internet
+* paint
+
+### Sélection educatifs
+
+* p.ex. lecture mots
+* p.ex. apprentissage saisie clavier
+
+### Sélection jeux
+
+### Sélection sites
 * [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil): encyclopédie des 8-13 ans
 * [Y'a pas école ?](https://www.rts.ch/decouverte/y-a-pas-ecole/) : émissions pour réviser les programmes scolaires autrement que sur les bancs d’école
 * [Qwant junior](https://www.qwantjunior.com/) : moteur de recherche
 * [YouTubeKids](https://www.youtubekids.com/?hl=fr)
+
+si possible offline
+
+### Choix jeux électroniques
+
+### Choix console de jeu
 
 ## Education numérique
 * [#DansLaToile](https://www.rts.ch/play/tv/emission/danslatoile?id=8810939) : dessin animé sur l'éducation numérique
