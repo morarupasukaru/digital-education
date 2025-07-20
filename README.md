@@ -45,6 +45,9 @@ si possible offline
 * [éduclasse](https://www.educlasse.ch/): exercices éducation en ligne
 * [modulo](https://modulo-info.ch/): Modulo est un catalogue de ressources destiné à l'enseignement et à l'apprentissage de l'informatique au gymnase.
 * [Guide des Ressources Numériques Éducatives](https://primabord.eduscol.education.fr/guide-des-ressources-numeriques-educatives)
+* [iClasse](https://iclasse.rpn.ch/accueil)
+* [Blogs RPN](https://blogs.rpn.ch/oiso/)
+* [RPN - éducation numérique - cycle 1 - usages](https://portail.rpn.ch/enseignants/en/pages/msiu-c1-usa.aspx)
 
 ## Control parental
 * [Quels films pour nos enfants?](https://www.filmspourenfants.net/)
