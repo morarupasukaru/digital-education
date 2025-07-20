@@ -20,6 +20,8 @@ Liens et articles concernant l'éducation numérique aux jeunes
 ### Sélection logiciels
 
 * paint
+* https://primtux.fr/logiciels-PrimTux8.ods
+* https://primtux.fr/logitheque-base/
 
 ### Sélection educatifs
 
