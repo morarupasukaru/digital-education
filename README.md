@@ -68,6 +68,11 @@ Solutions:
   * [ScratchJr](https://www.scratchjr.org/) (6 à 8 ans)
 * [Algoblocs](https://www.algoblocs.fr/) (8-12 ans)
 * [Grasshopper](https://blog.google/outreach-initiatives/grow-with-google/grasshopper-desktop-learn-to-code/) (14 ans et plus)
+
+Documentation Rasperry Pi
+* [Projects to make with Raspberry Pi](https://www.raspberrypi.com/resources/make/)
+* [Projects | Computer coding for kids and teens | Raspberry Pi](https://projects.raspberrypi.org/en)
+* [Greenfoot | Teach & Learn Java Programming](https://www.greenfoot.org/door)
   
 Articles: 
 * [Apprendre à coder et programmer : 100 ressources pour les enfants et les ados (article 2021)](https://www.geekjunior.fr/apprendre-a-coder-programmer-50-ressources-enfant-ados-4376/)
