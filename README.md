@@ -36,11 +36,10 @@ Liens et articles concernant l'éducation numérique aux jeunes
 * TODO
 
   
-## Choix console de jeu
-
+## Console de jeu
 * pas de console si l'enfant ne le demande pas
+* console sur TV avec parents (jeu société)
 * pas de console portable dans un premier temps
-* console sur TV avec parents
 * idée jeu: mario odyssey, mario kart, ... 
 * TODO
 
