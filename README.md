@@ -29,6 +29,7 @@ Liens et articles concernant l'éducation numérique aux jeunes
     * **TODO: faire une sélection d'article en fonction de l'age**
   * [Qwant junior](https://www.qwantjunior.com/) : moteur de recherche
   * [YouTubeKids](https://www.youtubekids.com/?hl=fr)
+  * TODO: https://www.explorateurs-energie.ch/
 
 ## Choix jeux électroniques
 
