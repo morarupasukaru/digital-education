@@ -1,27 +1,24 @@
 # digital-education
 Liens et articles concernant l'éducation numérique aux jeunes
 
+## Labs
 
-## TODOs
-* en fonction de l'âge
-* matériels
-* applications
-* sites
-* loisirs
-* apprentissage / cours
-### Choix du système d'exploitation
-
-* Choix
-  * [Primtux](https://primtux.fr/)
-  * Raspian
-  * ...
-  * Windows
+* Lab 01: expliquer le clavier, souris, menu, interface
+* Lab 02: dessins avec tuxpaint
+* Lab 03: explorer terre, lune et mars avec marble
+* Lab 04: activité gcompris
+* Lab 05: 
 
 ### Sélection logiciels
 
-* paint
-* https://primtux.fr/logiciels-PrimTux8.ods
-* https://primtux.fr/logitheque-base/
+* [gcompris](https://gcompris.net/index-fr.html) avec activités entre 2 et 10 ans
+* [multimaths.net](https://mathematiques.wp.ac-dijon.fr/motiver-valoriser/applications-academiques/) pour apprentissage mathématique
+  * p.ex. [120 secondes](https://www.multimaths.net/120s.php)
+* [tuxpaint](https://tuxpaint.org/) comme logiciel libre de dessin pour les enfants
+* [marble](https://marble.kde.org/index.php) comme mappemonde
+* jeux
+  * [Ri-li](https://ri-li.sourceforge.net/) jeux de petit train
+  * 
 
 ### Sélection educatifs
 
