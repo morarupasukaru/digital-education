@@ -19,6 +19,7 @@ Liens et articles concernant l'éducation numérique aux jeunes
 * jeux
   * [Ri-li](https://ri-li.sourceforge.net/) jeux de petit train
   * 
+* [Ada & Zangemann, traduction collaborative d’un conte moderne](https://adeaf.net/Ada-Zangemann-traduction-collaborative-d-un-conte-moderne)
 
 ### Sélection educatifs
 
