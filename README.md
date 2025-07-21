@@ -12,7 +12,26 @@ Liens et articles concernant l'éducation numérique aux jeunes
 * le but n'est pas de forcément de faire des exercices pour l'école (à moins d'un intérêt particulier de l'enfant) 
 
 
+## Initiation à l'informatique
+
+TODO A faire avec l'enfant
+
+
+## iClass
+
+Sites et applications scolaires. Optionel: A proposer à l'enfant s'il a un intérêt
+
+  
+## Console de jeu
+* pas de console si l'enfant ne le demande pas
+* jouer sur une console sur TV avec les parents dans les premières années (un peu comme un jeu de société)
+* pas de console portable dans un premier temps (car prise en main difficile et manque de contrôle parentale)
+* idée jeu: mario odyssey, mario kart, ... 
+* TODO
+
 ## Sélection logiciels & sites
+
+TODO à repartir entre iClass et initiation à l'informatique
 
 * à présenter à l'enfant
   * TODO 
@@ -50,24 +69,8 @@ Liens et articles concernant l'éducation numérique aux jeunes
 
 * TODO
 
-  
-## Console de jeu
-* pas de console si l'enfant ne le demande pas
-* console sur TV avec parents (jeu société)
-* pas de console portable dans un premier temps
-* idée jeu: mario odyssey, mario kart, ... 
-* TODO
-
-## Labs
-
-* Lab 01: expliquer le clavier, souris, menu, interface
-* Lab 02: dessins avec tuxpaint
-* Lab 03: explorer la terre et la lunes avec marble
-* Lab 04: activité gcompris
-* Lab 05: 
-* TODO
-
 ## Education numérique -> TODO tri
+TODO à repartir entre iClass et initiation à l'informatique
 * [#DansLaToile](https://www.rts.ch/play/tv/emission/danslatoile?id=8810939) : dessin animé sur l'éducation numérique
 * [éduclasse](https://www.educlasse.ch/): exercices éducation en ligne
 * [modulo](https://modulo-info.ch/): Modulo est un catalogue de ressources destiné à l'enseignement et à l'apprentissage de l'informatique au gymnase.
@@ -77,6 +80,7 @@ Liens et articles concernant l'éducation numérique aux jeunes
 * [RPN - éducation numérique - cycle 1 - usages](https://portail.rpn.ch/enseignants/en/pages/msiu-c1-usa.aspx)
 
 ## Control parental -> TODO tri
+TODO tri
 * [Quels films pour nos enfants?](https://www.filmspourenfants.net/)
 * [Médias](https://famigros.migros.ch/fr/enfants-et-adolescents/medias)
 * [Le premier smartphone de mon enfant](https://www.swisscom.ch/fr/about/durabilite/swisscom-campus/premier-smartphone-de-mon-enfant.html?campID=SEA_SE_R1GR2136_716379142449&gad_source=1&gad_campaignid=18606814235&gbraid=0AAAAADEdF42LP7AvY_yVc4T14P6qTiD3v#wofuer-smartphone=&acc-Ahz4MQ%5Bselected%5D%5B%5D=0)
@@ -92,6 +96,7 @@ Liens et articles concernant l'éducation numérique aux jeunes
 * [ROBOSPHERE](https://www.robosphere.net/) : Espace ludactique à la Chaux-de-Fonds
 
 ## Programmation -> TODO tri
+TODO à repartir entre iClass et initiation à l'informatique
 
 Solutions:
 * [Scratch](https://scratch.mit.edu/): langage de codage et communauté
