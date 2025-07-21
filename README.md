@@ -1,8 +1,23 @@
 # digital-education
 Liens et articles concernant l'éducation numérique aux jeunes
 
+## Buts
+* 6-7 ans
+  * expliquer les fondamentaux de l'utilisation d'un ordinateur
+  * essayer quelques applications
+  * utiliser la souris et le clavier (sans forcèment faire des séances de perfectionnement via des jeux)
+  * essayer la programmation
+  * jeu sur console TV avec parents si l'enfant le demande
+* 8-x ans
+* le but n'est pas de forcément de faire des exercices pour l'école (à moins d'un intérêt particulier de l'enfant) 
+
+
 ## Sélection logiciels & sites
 
+* à présenter à l'enfant
+  * TODO 
+* optionel
+  * TODO 
 * TODO: test https://doc.ubuntu-fr.org/edubuntu
 * applications
   * [gcompris](https://gcompris.net/index-fr.html), avec activités/jeux, de 2 à 11 ans
@@ -17,7 +32,7 @@ Liens et articles concernant l'éducation numérique aux jeunes
   * [scratchjr](https://www.scratchjr.org/) pour de la programmation pour les jeunes enfants, de 5 à 7 ans
   * [scratch](https://scratch.mit.edu/) pour de la programmation pour les jeunes enfants, de 8 à 16 ans
   * [KTurtle](https://apps.kde.org/fr/kturtle/) est un environnement de programmation éducatif destiné à l'apprentissage de la programmation, de 6 à 16 ans
-  * TODO: Blinken pour exercer la mémoire?
+  * TODO: [Blinken](https://apps.kde.org/fr/blinken/) pour exercer la mémoire?
   * TOOD: sugar on a stick?
   * [tuxtyping](https://www.tux4kids.com/tuxtyping.html) pour l'apprentissage saisie clavier
     * TODO: alternative? 
