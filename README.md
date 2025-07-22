@@ -37,7 +37,6 @@ TODO à repartir entre iClass et initiation à l'informatique
   * TODO 
 * optionel
   * TODO 
-* TODO: test https://doc.ubuntu-fr.org/edubuntu
 * applications
   * [gcompris](https://gcompris.net/index-fr.html), avec activités/jeux, de 2 à 11 ans
   * [multimaths.net](https://mathematiques.wp.ac-dijon.fr/motiver-valoriser/applications-academiques/) pour apprentissage mathématique
@@ -58,6 +57,10 @@ TODO à repartir entre iClass et initiation à l'informatique
   * tuxmath pour calcul mental?
   * Nootka pour apprentissage musique?
   * TupiTube pour conception d'animation?
+  * https://apps.kde.org/fr/categories/education/
+  * https://doc.edubuntu-fr.org/logiciels#education
+  * https://doc.edubuntu-fr.org/education
+  * https://doc.edubuntu-fr.org/logiciels_educatifs_pour_les_enfants
 * sites
   * [Y'a pas école ?](https://www.rts.ch/decouverte/y-a-pas-ecole/) : émissions pour réviser les programmes scolaires autrement que sur les bancs d’école
     * **TODO: faire une sélection d'article en fonction de l'age**
