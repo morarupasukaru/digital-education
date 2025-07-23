@@ -102,6 +102,3 @@ TODO tri
 * [les meilleurs kits robots pour les debutants (article 2020)](https://www.lemonde.fr/guides-d-achat/article/2020/06/13/les-meilleurs-kits-robots-pour-les-debutants_6042730_5306571.html#huit-anchor-notre-premier-choix-)
 * [futurekids](https://futurekids.io/): activités innovantes pour apprendre les sciences informatiques et la robotique en s'amusant ! De 5 à 14 ans.
 * [ROBOSPHERE](https://www.robosphere.net/) : Espace ludactique à la Chaux-de-Fonds
-
-Articles: 
-* [Apprendre à coder et programmer : 100 ressources pour les enfants et les ados (article 2021)](https://www.geekjunior.fr/apprendre-a-coder-programmer-50-ressources-enfant-ados-4376/)
