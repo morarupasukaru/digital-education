@@ -47,9 +47,10 @@ TODO à repartir entre iClass et initiation à l'informatique
   * [Ada & Zangemann, traduction collaborative d’un conte moderne](https://adeaf.net/Ada-Zangemann-traduction-collaborative-d-un-conte-moderne), de 8 à 11 ans
   * [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil): encyclopédie, de 8 à 13 ans
     * [kiwix](https://kiwix.org/fr/) pour vikidia en offline
-  * [scratchjr](https://www.scratchjr.org/) pour de la programmation pour les jeunes enfants, de 5 à 7 ans
+  * [scratchjr](https://www.scratchjr.org/) pour de la programmation pour les jeunes enfants, de 6 à 8 ans
   * [scratch](https://scratch.mit.edu/) pour de la programmation pour les jeunes enfants, de 8 à 16 ans
   * [KTurtle](https://apps.kde.org/fr/kturtle/) est un environnement de programmation éducatif destiné à l'apprentissage de la programmation, de 6 à 16 ans
+  * [Algoblocs](https://www.algoblocs.fr/) pour apprendre à programmer, de 8 à 12 ans
   * TODO: [Blinken](https://apps.kde.org/fr/blinken/) pour exercer la mémoire?
   * TOOD: sugar on a stick?
   * [tuxtyping](https://www.tux4kids.com/tuxtyping.html) pour l'apprentissage saisie clavier
@@ -97,15 +98,6 @@ TODO tri
 * [les meilleurs kits robots pour les debutants (article 2020)](https://www.lemonde.fr/guides-d-achat/article/2020/06/13/les-meilleurs-kits-robots-pour-les-debutants_6042730_5306571.html#huit-anchor-notre-premier-choix-)
 * [futurekids](https://futurekids.io/): activités innovantes pour apprendre les sciences informatiques et la robotique en s'amusant ! De 5 à 14 ans.
 * [ROBOSPHERE](https://www.robosphere.net/) : Espace ludactique à la Chaux-de-Fonds
-
-## Programmation -> TODO tri
-TODO à repartir entre iClass et initiation à l'informatique
-
-Solutions:
-* [Scratch](https://scratch.mit.edu/): langage de codage et communauté
-  * [ScratchJr](https://www.scratchjr.org/) (6 à 8 ans)
-* [Algoblocs](https://www.algoblocs.fr/) (8-12 ans)
-* [Grasshopper](https://blog.google/outreach-initiatives/grow-with-google/grasshopper-desktop-learn-to-code/) (14 ans et plus)
 
 Documentation Rasperry Pi
 * [Projects to make with Raspberry Pi](https://www.raspberrypi.com/resources/make/)
