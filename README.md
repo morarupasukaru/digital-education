@@ -55,7 +55,7 @@ TODO à repartir entre iClass et initiation à l'informatique
   * [microsoft makecode](https://www.microsoft.com/fr-fr/makecode/) pour apprendre à programmer avec micro-bit par exemple
   * [BBC micro:bit](https://microbit.org/fr/get-started/what-is-the-microbit/) micro-ordinateur pour coder de manière concrète, dès 8 ans ::thumbsup::
   * TODO: [Blinken](https://apps.kde.org/fr/blinken/) pour exercer la mémoire?
-  * TOOD: sugar on a stick?
+  * [sugar on a stick](https://fedoraproject.org/spins/soas) ou [sugarizer](https://sugarizer.org/) pour un os kind-friendly avec +50 activités, de 6 à 12 ans
   * [tuxtyping](https://www.tux4kids.com/tuxtyping.html) pour l'apprentissage saisie clavier
     * TODO: alternative? 
   * tuxmath pour calcul mental?
@@ -86,9 +86,6 @@ TODO à repartir entre iClass et initiation à l'informatique
 * [iClasse](https://iclasse.rpn.ch/accueil)
 * [Blogs RPN](https://blogs.rpn.ch/oiso/)
 * [RPN - éducation numérique - cycle 1 - usages](https://portail.rpn.ch/enseignants/en/pages/msiu-c1-usa.aspx)
-
-## Control parental -> TODO tri
-TODO tri
 * [Quels films pour nos enfants?](https://www.filmspourenfants.net/)
 * [Médias](https://famigros.migros.ch/fr/enfants-et-adolescents/medias)
 * [Le premier smartphone de mon enfant](https://www.swisscom.ch/fr/about/durabilite/swisscom-campus/premier-smartphone-de-mon-enfant.html?campID=SEA_SE_R1GR2136_716379142449&gad_source=1&gad_campaignid=18606814235&gbraid=0AAAAADEdF42LP7AvY_yVc4T14P6qTiD3v#wofuer-smartphone=&acc-Ahz4MQ%5Bselected%5D%5B%5D=0)
