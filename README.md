@@ -1,6 +1,16 @@
 # digital-education
 Liens et articles concernant l'éducation numérique aux jeunes
 
+## Classification
+* initiation à l'informatique (p.ex. avec des applications de windows, linux ou sugar on a stick)
+* initiation à la programmation (p.ex. avec scratch, python, bbc micro:bit ou robot)
+* iClass (exercices scolaires sur l'ordinateur) >>> optionel: à proposer à l'enfant s'il a un intérêt
+* éducation numérique (expliquer les outils, risques, etc.)
+  * jeux électroniques/vidéos
+  * smartphone
+  * internet
+  * ...
+
 ## Buts
 * 6-7 ans
   * expliquer les fondamentaux de l'utilisation d'un ordinateur
@@ -11,18 +21,7 @@ Liens et articles concernant l'éducation numérique aux jeunes
 * 8-x ans
 * le but n'est pas de forcément de faire des exercices pour l'école (à moins d'un intérêt particulier de l'enfant) 
 
-
-## Initiation à l'informatique
-
-TODO A faire avec l'enfant
-
-
-## iClass
-
-Sites et applications scolaires. Optionel: A proposer à l'enfant s'il a un intérêt
-
-  
-## Console de jeu
+## Jeux vidéos
 * pas de console si l'enfant ne le demande pas
 * jouer sur une console sur TV avec les parents dans les premières années (un peu comme un jeu de société)
 * pas de console portable dans un premier temps (car prise en main difficile et manque de contrôle parentale)
