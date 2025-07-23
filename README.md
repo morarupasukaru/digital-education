@@ -51,6 +51,7 @@ TODO à repartir entre iClass et initiation à l'informatique
   * [scratch](https://scratch.mit.edu/) pour de la programmation pour les jeunes enfants, de 8 à 16 ans
   * [KTurtle](https://apps.kde.org/fr/kturtle/) est un environnement de programmation éducatif destiné à l'apprentissage de la programmation, de 6 à 16 ans
   * [Algoblocs](https://www.algoblocs.fr/) pour apprendre à programmer, de 8 à 12 ans
+  * [Greenfoot](https://www.greenfoot.org/door) pour apprendre à programmer en java, dès 13 ans
   * TODO: [Blinken](https://apps.kde.org/fr/blinken/) pour exercer la mémoire?
   * TOOD: sugar on a stick?
   * [tuxtyping](https://www.tux4kids.com/tuxtyping.html) pour l'apprentissage saisie clavier
@@ -67,6 +68,7 @@ TODO à repartir entre iClass et initiation à l'informatique
     * **TODO: faire une sélection d'article en fonction de l'age**
   * [Qwant junior](https://www.qwantjunior.com/) : moteur de recherche
   * [YouTubeKids](https://www.youtubekids.com/?hl=fr)
+  * [Rasperry Pi projects](https://projects.raspberrypi.org/en) pour apprendre à programmer avec scratch, python, etc.
   * TODO: https://www.explorateurs-energie.ch/
 
 ## Choix jeux électroniques
@@ -99,11 +101,6 @@ TODO tri
 * [futurekids](https://futurekids.io/): activités innovantes pour apprendre les sciences informatiques et la robotique en s'amusant ! De 5 à 14 ans.
 * [ROBOSPHERE](https://www.robosphere.net/) : Espace ludactique à la Chaux-de-Fonds
 
-Documentation Rasperry Pi
-* [Projects to make with Raspberry Pi](https://www.raspberrypi.com/resources/make/)
-* [Projects | Computer coding for kids and teens | Raspberry Pi](https://projects.raspberrypi.org/en)
-* [Greenfoot | Teach & Learn Java Programming](https://www.greenfoot.org/door)
-  
 Articles: 
 * [Apprendre à coder et programmer : 100 ressources pour les enfants et les ados (article 2021)](https://www.geekjunior.fr/apprendre-a-coder-programmer-50-ressources-enfant-ados-4376/)
 * [Les 5 meilleures applications de codage pour les enfants (article 2021)](https://insights.gostudent.org/fr/meilleures-applications-codage-enfants)
