@@ -52,6 +52,8 @@ TODO à repartir entre iClass et initiation à l'informatique
   * [KTurtle](https://apps.kde.org/fr/kturtle/) est un environnement de programmation éducatif destiné à l'apprentissage de la programmation, de 6 à 16 ans
   * [Algoblocs](https://www.algoblocs.fr/) pour apprendre à programmer, de 8 à 12 ans
   * [Greenfoot](https://www.greenfoot.org/door) pour apprendre à programmer en java, dès 13 ans
+  * [microsoft makecode](https://www.microsoft.com/fr-fr/makecode/) pour apprendre à programmer avec micro-bit par exemple
+  * [BBC micro:bit](https://microbit.org/fr/get-started/what-is-the-microbit/) micro-ordinateur pour coder de manière concrète, dès 8 ans ::thumbsup::
   * TODO: [Blinken](https://apps.kde.org/fr/blinken/) pour exercer la mémoire?
   * TOOD: sugar on a stick?
   * [tuxtyping](https://www.tux4kids.com/tuxtyping.html) pour l'apprentissage saisie clavier
@@ -103,4 +105,3 @@ TODO tri
 
 Articles: 
 * [Apprendre à coder et programmer : 100 ressources pour les enfants et les ados (article 2021)](https://www.geekjunior.fr/apprendre-a-coder-programmer-50-ressources-enfant-ados-4376/)
-* [Les 5 meilleures applications de codage pour les enfants (article 2021)](https://insights.gostudent.org/fr/meilleures-applications-codage-enfants)
