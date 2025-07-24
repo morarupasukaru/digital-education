@@ -1,17 +1,7 @@
 # digital-education
 Liens et articles concernant l'éducation numérique aux jeunes
 
-## Classification
-* initiation à l'informatique (p.ex. avec des applications de windows, linux ou sugar on a stick)
-* initiation à la programmation (p.ex. avec scratch, python, bbc micro:bit ou robot)
-* iClass (exercices scolaires sur l'ordinateur) >>> optionel: à proposer à l'enfant s'il a un intérêt
-* éducation numérique (expliquer les outils, risques, etc.)
-  * jeux électroniques/vidéos
-  * smartphone
-  * internet
-  * ...
-
-## Buts
+## Buts principaux
 * 6-7 ans
   * expliquer les fondamentaux de l'utilisation d'un ordinateur
   * essayer quelques applications
@@ -21,31 +11,42 @@ Liens et articles concernant l'éducation numérique aux jeunes
 * 8-x ans
 * le but n'est pas de forcément de faire des exercices pour l'école (à moins d'un intérêt particulier de l'enfant) 
 
-## Jeux vidéos
-* pas de console si l'enfant ne le demande pas
-* jouer sur une console sur TV avec les parents dans les premières années (un peu comme un jeu de société)
-* pas de console portable dans un premier temps (car prise en main difficile et manque de contrôle parentale)
-* idée jeu: mario odyssey, mario kart, ... 
-* TODO
-
-## Sélection logiciels & sites
-
-TODO à repartir entre iClass et initiation à l'informatique
-
-* à présenter à l'enfant
-  * TODO 
-* optionel
-  * TODO 
 * applications
-  * [gcompris](https://gcompris.net/index-fr.html), avec activités/jeux, de 2 à 11 ans
-  * [multimaths.net](https://mathematiques.wp.ac-dijon.fr/motiver-valoriser/applications-academiques/) pour apprentissage mathématique
-    * p.ex. [120 secondes](https://www.multimaths.net/120s.php) pour des calculs mentals, de 6 à 11 ans
-  * [tuxpaint](https://tuxpaint.org/) comme logiciel libre de dessin pour les enfants, de 3 à 7 ans
-  * [marble](https://marble.kde.org/index.php) comme mappemonde, dès 6 ans
-  * [Ri-li](https://ri-li.sourceforge.net/) : jeu de logique avec un petit train, dès 5 ans
+  * TODO: [Blinken](https://apps.kde.org/fr/blinken/) pour exercer la mémoire?
   * [Ada & Zangemann, traduction collaborative d’un conte moderne](https://adeaf.net/Ada-Zangemann-traduction-collaborative-d-un-conte-moderne), de 8 à 11 ans
-  * [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil): encyclopédie, de 8 à 13 ans
-    * [kiwix](https://kiwix.org/fr/) pour vikidia en offline
+  * https://apps.kde.org/fr/categories/education/
+  * https://doc.edubuntu-fr.org/logiciels#education
+  * https://doc.edubuntu-fr.org/education
+  * https://doc.edubuntu-fr.org/logiciels_educatifs_pour_les_enfants
+* sites
+  * TODO: https://www.explorateurs-energie.ch/
+
+## Initiation à l'informatique
+
+_p.ex. avec des applications de windows, linux ou sugar on a stick_
+
+Labs:
+* TODO
+ 
+Applications & Resources:
+* [sugar on a stick](https://fedoraproject.org/spins/soas) ou [sugarizer](https://sugarizer.org/) pour un os kind-friendly avec +50 activités, de 6 à 12 ans
+* [tuxpaint](https://tuxpaint.org/) comme logiciel libre de dessin pour les enfants, de 3 à 7 ans
+* [marble](https://marble.kde.org/index.php) comme mappemonde, dès 6 ans
+* [gcompris](https://gcompris.net/index-fr.html), avec activités/jeux, de 2 à 11 ans
+* [tuxtyping](https://www.tux4kids.com/tuxtyping.html) pour l'apprentissage saisie clavier
+* [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil): encyclopédie, de 8 à 13 ans
+  * [kiwix](https://kiwix.org/fr/) pour vikidia en offline
+* [Qwant junior](https://www.qwantjunior.com/) : moteur de recherche
+* [YouTubeKids](https://www.youtubekids.com/?hl=fr)
+    
+ ## Initiation programmation
+
+_p.ex. avec scratch, python, bbc micro:bit ou robot_
+
+Labs:
+* TODO
+ 
+Applications & Resources:
   * [scratchjr](https://www.scratchjr.org/) pour de la programmation pour les jeunes enfants, de 6 à 8 ans
   * [scratch](https://scratch.mit.edu/) pour de la programmation pour les jeunes enfants, de 8 à 16 ans
   * [KTurtle](https://apps.kde.org/fr/kturtle/) est un environnement de programmation éducatif destiné à l'apprentissage de la programmation, de 6 à 16 ans
@@ -53,43 +54,50 @@ TODO à repartir entre iClass et initiation à l'informatique
   * [Greenfoot](https://www.greenfoot.org/door) pour apprendre à programmer en java, dès 13 ans
   * [microsoft makecode](https://www.microsoft.com/fr-fr/makecode/) pour apprendre à programmer avec micro-bit par exemple
   * [BBC micro:bit](https://microbit.org/fr/get-started/what-is-the-microbit/) micro-ordinateur pour coder de manière concrète, dès 8 ans ::thumbsup::
-  * TODO: [Blinken](https://apps.kde.org/fr/blinken/) pour exercer la mémoire?
-  * [sugar on a stick](https://fedoraproject.org/spins/soas) ou [sugarizer](https://sugarizer.org/) pour un os kind-friendly avec +50 activités, de 6 à 12 ans
-  * [tuxtyping](https://www.tux4kids.com/tuxtyping.html) pour l'apprentissage saisie clavier
-    * TODO: alternative? 
-  * tuxmath pour calcul mental?
-  * Nootka pour apprentissage musique?
-  * TupiTube pour conception d'animation?
-  * https://apps.kde.org/fr/categories/education/
-  * https://doc.edubuntu-fr.org/logiciels#education
-  * https://doc.edubuntu-fr.org/education
-  * https://doc.edubuntu-fr.org/logiciels_educatifs_pour_les_enfants
-* sites
-  * [Y'a pas école ?](https://www.rts.ch/decouverte/y-a-pas-ecole/) : émissions pour réviser les programmes scolaires autrement que sur les bancs d’école
-    * **TODO: faire une sélection d'article en fonction de l'age**
-  * [Qwant junior](https://www.qwantjunior.com/) : moteur de recherche
-  * [YouTubeKids](https://www.youtubekids.com/?hl=fr)
-  * [Rasperry Pi projects](https://projects.raspberrypi.org/en) pour apprendre à programmer avec scratch, python, etc.
-  * TODO: https://www.explorateurs-energie.ch/
-* expositions / musées
-  * [ROBOSPHERE](https://www.robosphere.net/) : Espace ludactique à la Chaux-de-Fonds sur la robotique, dès 8 ans
-* informatique et programmation
   * [modulo](https://modulo-info.ch/) pour l'enseignement de l'informatique & programmation au gymnase
-* iClass (exercices scolaires sur l'ordinateur) >>> OPTIONEL
-  * [éduclasse](https://www.educlasse.ch/): exercices éducation en ligne
-  * [Guide des Ressources Numériques Éducatives](https://primabord.eduscol.education.fr/guide-des-ressources-numeriques-educatives)
-  * [iClasse](https://iclasse.rpn.ch/accueil)
+  * [Rasperry Pi projects](https://projects.raspberrypi.org/en) pour apprendre à programmer avec scratch, python, etc.
+  * [ROBOSPHERE](https://www.robosphere.net/) : Espace ludactique à la Chaux-de-Fonds sur la robotique, dès 8 ans
 
-## Choix jeux électroniques
+ ## iClass
 
+_exercices scolaires sur l'ordinateur. Optionel: à proposer à l'enfant s'il a un intérêt_
+
+Labs:
 * TODO
+ 
+Applications & Resources:
+  * [Y'a pas école ?](https://www.rts.ch/decouverte/y-a-pas-ecole/) : émissions pour réviser les programmes scolaires autrement que sur les bancs d’école
+  * [éduclasse](https://www.educlasse.ch/): exercices éducation en ligne
+  * [iClasse](https://iclasse.rpn.ch/accueil)
+  * [multimaths.net](https://mathematiques.wp.ac-dijon.fr/motiver-valoriser/applications-academiques/) pour apprentissage mathématique
+    * p.ex. [120 secondes](https://www.multimaths.net/120s.php) pour des calculs mentals, de 6 à 11 ans
+  * tuxmath pour calcul mental?
+    
 
-## Education numérique -> TODO tri
-TODO à repartir entre iClass et initiation à l'informatique
+
+## Jeux électroniques
+_avant jeux vidéos_
+
+TODO
+
+## Jeux vidéos
+* pas de console si l'enfant ne le demande pas
+* jouer sur une console sur TV avec les parents dans les premières années (un peu comme un jeu de société)
+* pas de console portable dans un premier temps (car prise en main difficile et manque de contrôle parentale)
+* idée jeu: mario odyssey, mario kart, ... 
+* liste jeux
+  * [Ri-li](https://ri-li.sourceforge.net/) : jeu de logique avec un petit train, dès 5 ans
+
+## Autres sujets
+* Smartphone:
+  * [Le premier smartphone de mon enfant](https://www.swisscom.ch/fr/about/durabilite/swisscom-campus/premier-smartphone-de-mon-enfant.html?campID=SEA_SE_R1GR2136_716379142449&gad_source=1&gad_campaignid=18606814235&gbraid=0AAAAADEdF42LP7AvY_yVc4T14P6qTiD3v#wofuer-smartphone=&acc-Ahz4MQ%5Bselected%5D%5B%5D=0) 
+* Internet
+* Films: [Quels films pour nos enfants?](https://www.filmspourenfants.net/)
+
+## Ressources
+* [Guide des Ressources Numériques Éducatives](https://primabord.eduscol.education.fr/guide-des-ressources-numeriques-educatives)
 * [#DansLaToile](https://www.rts.ch/play/tv/emission/danslatoile?id=8810939) : dessin animé sur l'éducation numérique, dès 9 ans
-* [Quels films pour nos enfants?](https://www.filmspourenfants.net/)
 * [Médias](https://famigros.migros.ch/fr/enfants-et-adolescents/medias)
-* [Le premier smartphone de mon enfant](https://www.swisscom.ch/fr/about/durabilite/swisscom-campus/premier-smartphone-de-mon-enfant.html?campID=SEA_SE_R1GR2136_716379142449&gad_source=1&gad_campaignid=18606814235&gbraid=0AAAAADEdF42LP7AvY_yVc4T14P6qTiD3v#wofuer-smartphone=&acc-Ahz4MQ%5Bselected%5D%5B%5D=0)
 * [Médias numériques - de quelle protection et de quel espace de liberté les enfants ont-ils besoin ?](https://www.projuventute.ch/fr/parents/medias-et-internet/medias-numeriques-protection)
 * [Recommandations pour les parents d’enfants de 6 à 13 ans](https://www.jeunesetmedias.ch/recommandations/recommandations-pour-les-parents-denfants-de-6-a-13-ans)
-* [Ateliers en ligne pour soutenir les parents dans l’éducation numérique des enfants et jeunes](https://www.projuventute.ch/fr/parents/medias-et-internet/competences-numeriques-ateliers-parents) --> voir résumé des séances
+* [Ateliers en ligne pour soutenir les parents dans l’éducation numérique des enfants et jeunes](https://www.projuventute.ch/fr/parents/medias-et-internet/competences-numeriques-ateliers-parents)
