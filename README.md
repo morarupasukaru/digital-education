@@ -8,25 +8,17 @@ Liens et articles concernant l'éducation numérique aux jeunes
   * utiliser la souris et le clavier (sans forcèment faire des séances de perfectionnement via des jeux)
   * essayer la programmation
   * jeu sur console TV avec parents si l'enfant le demande
-* 8-x ans
-* le but n'est pas de forcément de faire des exercices pour l'école (à moins d'un intérêt particulier de l'enfant) 
 
-* applications
+## TODO tri
   * TODO: [Blinken](https://apps.kde.org/fr/blinken/) pour exercer la mémoire?
   * [Ada & Zangemann, traduction collaborative d’un conte moderne](https://adeaf.net/Ada-Zangemann-traduction-collaborative-d-un-conte-moderne), de 8 à 11 ans
   * https://apps.kde.org/fr/categories/education/
   * https://doc.edubuntu-fr.org/logiciels#education
   * https://doc.edubuntu-fr.org/education
   * https://doc.edubuntu-fr.org/logiciels_educatifs_pour_les_enfants
-* sites
-  * TODO: https://www.explorateurs-energie.ch/
 
 ## Initiation à l'informatique
-
-_p.ex. avec des applications de windows, linux ou sugar on a stick_
-
-Labs:
-* TODO
+Labs: **TODO**
  
 Applications & Resources:
 * [sugar on a stick](https://fedoraproject.org/spins/soas) ou [sugarizer](https://sugarizer.org/) pour un os kind-friendly avec +50 activités, de 6 à 12 ans
@@ -40,11 +32,7 @@ Applications & Resources:
 * [YouTubeKids](https://www.youtubekids.com/?hl=fr)
     
  ## Initiation programmation
-
-_p.ex. avec scratch, python, bbc micro:bit ou robot_
-
-Labs:
-* TODO
+Labs: **TODO**
  
 Applications & Resources:
   * [scratchjr](https://www.scratchjr.org/) pour de la programmation pour les jeunes enfants, de 6 à 8 ans
@@ -59,11 +47,7 @@ Applications & Resources:
   * [ROBOSPHERE](https://www.robosphere.net/) : Espace ludactique à la Chaux-de-Fonds sur la robotique, dès 8 ans
 
  ## iClass
-
-_exercices scolaires sur l'ordinateur. Optionel: à proposer à l'enfant s'il a un intérêt_
-
-Labs:
-* TODO
+_Exercices scolaires sur l'ordinateur. Optionel: à proposer à l'enfant s'il a un intérêt_
  
 Applications & Resources:
   * [Y'a pas école ?](https://www.rts.ch/decouverte/y-a-pas-ecole/) : émissions pour réviser les programmes scolaires autrement que sur les bancs d’école
@@ -72,13 +56,10 @@ Applications & Resources:
   * [multimaths.net](https://mathematiques.wp.ac-dijon.fr/motiver-valoriser/applications-academiques/) pour apprentissage mathématique
     * p.ex. [120 secondes](https://www.multimaths.net/120s.php) pour des calculs mentals, de 6 à 11 ans
   * tuxmath pour calcul mental?
+  * https://www.explorateurs-energie.ch/
     
-
-
 ## Jeux électroniques
-_avant jeux vidéos_
-
-TODO
+**TODO**
 
 ## Jeux vidéos
 * pas de console si l'enfant ne le demande pas
@@ -88,15 +69,11 @@ TODO
 * liste jeux
   * [Ri-li](https://ri-li.sourceforge.net/) : jeu de logique avec un petit train, dès 5 ans
 
-## Autres sujets
-* Smartphone:
-  * [Le premier smartphone de mon enfant](https://www.swisscom.ch/fr/about/durabilite/swisscom-campus/premier-smartphone-de-mon-enfant.html?campID=SEA_SE_R1GR2136_716379142449&gad_source=1&gad_campaignid=18606814235&gbraid=0AAAAADEdF42LP7AvY_yVc4T14P6qTiD3v#wofuer-smartphone=&acc-Ahz4MQ%5Bselected%5D%5B%5D=0) 
-* Internet
-* Films: [Quels films pour nos enfants?](https://www.filmspourenfants.net/)
-
 ## Ressources
 * [Guide des Ressources Numériques Éducatives](https://primabord.eduscol.education.fr/guide-des-ressources-numeriques-educatives)
 * [#DansLaToile](https://www.rts.ch/play/tv/emission/danslatoile?id=8810939) : dessin animé sur l'éducation numérique, dès 9 ans
 * [Médias numériques - de quelle protection et de quel espace de liberté les enfants ont-ils besoin ?](https://www.projuventute.ch/fr/parents/medias-et-internet/medias-numeriques-protection)
 * [Recommandations pour les parents d’enfants de 6 à 13 ans](https://www.jeunesetmedias.ch/recommandations/recommandations-pour-les-parents-denfants-de-6-a-13-ans)
 * [Ateliers en ligne pour soutenir les parents dans l’éducation numérique des enfants et jeunes](https://www.projuventute.ch/fr/parents/medias-et-internet/competences-numeriques-ateliers-parents)
+* Smartphone: [Le premier smartphone de mon enfant](https://www.swisscom.ch/fr/about/durabilite/swisscom-campus/premier-smartphone-de-mon-enfant.html?campID=SEA_SE_R1GR2136_716379142449&gad_source=1&gad_campaignid=18606814235&gbraid=0AAAAADEdF42LP7AvY_yVc4T14P6qTiD3v#wofuer-smartphone=&acc-Ahz4MQ%5Bselected%5D%5B%5D=0) 
+* Films: [Quels films pour nos enfants?](https://www.filmspourenfants.net/)
