@@ -9,14 +9,6 @@ Liens et articles concernant l'éducation numérique aux jeunes
   * essayer la programmation
   * jeu sur console TV avec parents si l'enfant le demande
 
-## TODO tri
-  * TODO: [Blinken](https://apps.kde.org/fr/blinken/) pour exercer la mémoire?
-  * [Ada & Zangemann, traduction collaborative d’un conte moderne](https://adeaf.net/Ada-Zangemann-traduction-collaborative-d-un-conte-moderne), de 8 à 11 ans
-  * https://apps.kde.org/fr/categories/education/
-  * https://doc.edubuntu-fr.org/logiciels#education
-  * https://doc.edubuntu-fr.org/education
-  * https://doc.edubuntu-fr.org/logiciels_educatifs_pour_les_enfants
-
 ## Initiation à l'informatique
 Labs: **TODO**
  
@@ -26,6 +18,7 @@ Applications & Resources:
 * [marble](https://marble.kde.org/index.php) comme mappemonde, dès 6 ans
 * [gcompris](https://gcompris.net/index-fr.html), avec activités/jeux, de 2 à 11 ans
 * [tuxtyping](https://www.tux4kids.com/tuxtyping.html) pour l'apprentissage saisie clavier
+* [ktouch](https://apps.kde.org/fr/ktouch/) pour l'apprentissage
 * [Vikidia](https://fr.vikidia.org/wiki/Vikidia:Accueil): encyclopédie, de 8 à 13 ans
   * [kiwix](https://kiwix.org/fr/) pour vikidia en offline
 * [Qwant junior](https://www.qwantjunior.com/) : moteur de recherche
@@ -55,8 +48,12 @@ Applications & Resources:
   * [iClasse](https://iclasse.rpn.ch/accueil)
   * [multimaths.net](https://mathematiques.wp.ac-dijon.fr/motiver-valoriser/applications-academiques/) pour apprentissage mathématique
     * p.ex. [120 secondes](https://www.multimaths.net/120s.php) pour des calculs mentals, de 6 à 11 ans
-  * tuxmath pour calcul mental?
-  * https://www.explorateurs-energie.ch/
+  * [application KDE pour l'éducation](https://apps.kde.org/fr/categories/education/)
+  * [les explorateurs de l'énergie](https://www.explorateurs-energie.ch/)
+  * [Ada & Zangemann, traduction collaborative d’un conte moderne](https://adeaf.net/Ada-Zangemann-traduction-collaborative-d-un-conte-moderne), de 8 à 11 ans
+  * **TODO:** https://doc.edubuntu-fr.org/logiciels#education
+  * **TODO:** https://doc.edubuntu-fr.org/education
+  * **TODO:** https://doc.edubuntu-fr.org/logiciels_educatifs_pour_les_enfants
     
 ## Jeux électroniques
 **TODO**
