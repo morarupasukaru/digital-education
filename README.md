@@ -41,7 +41,7 @@ Applications & Resources:
   * [Algoblocs](https://www.algoblocs.fr/) pour apprendre à programmer, de 8 à 12 ans
   * [Greenfoot](https://www.greenfoot.org/door) pour apprendre à programmer en java, dès 13 ans
   * [microsoft makecode](https://www.microsoft.com/fr-fr/makecode/) pour apprendre à programmer avec micro-bit par exemple
-  * [BBC micro:bit](https://microbit.org/fr/get-started/what-is-the-microbit/) micro-ordinateur pour coder de manière concrète, dès 8 ans ::thumbsup::
+  * [BBC micro:bit](https://microbit.org/fr/get-started/what-is-the-microbit/) micro-ordinateur pour coder de manière concrète, dès 8 ans
   * [modulo](https://modulo-info.ch/) pour l'enseignement de l'informatique & programmation au gymnase
   * [Rasperry Pi projects](https://projects.raspberrypi.org/en) pour apprendre à programmer avec scratch, python, etc.
   * [ROBOSPHERE](https://www.robosphere.net/) : Espace ludactique à la Chaux-de-Fonds sur la robotique, dès 8 ans
