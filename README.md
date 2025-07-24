@@ -97,7 +97,6 @@ TODO
 ## Ressources
 * [Guide des Ressources Numériques Éducatives](https://primabord.eduscol.education.fr/guide-des-ressources-numeriques-educatives)
 * [#DansLaToile](https://www.rts.ch/play/tv/emission/danslatoile?id=8810939) : dessin animé sur l'éducation numérique, dès 9 ans
-* [Médias](https://famigros.migros.ch/fr/enfants-et-adolescents/medias)
 * [Médias numériques - de quelle protection et de quel espace de liberté les enfants ont-ils besoin ?](https://www.projuventute.ch/fr/parents/medias-et-internet/medias-numeriques-protection)
 * [Recommandations pour les parents d’enfants de 6 à 13 ans](https://www.jeunesetmedias.ch/recommandations/recommandations-pour-les-parents-denfants-de-6-a-13-ans)
 * [Ateliers en ligne pour soutenir les parents dans l’éducation numérique des enfants et jeunes](https://www.projuventute.ch/fr/parents/medias-et-internet/competences-numeriques-ateliers-parents)
