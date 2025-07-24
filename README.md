@@ -93,8 +93,4 @@ TODO à repartir entre iClass et initiation à l'informatique
 * [Ateliers en ligne pour soutenir les parents dans l’éducation numérique des enfants et jeunes](https://www.projuventute.ch/fr/parents/medias-et-internet/competences-numeriques-ateliers-parents) --> voir résumé des séances
 
 ## Robotique -> TODO tri
-* [www.ecolerobots.com](https://www.ecolerobots.com/)
-* [LEGO Education SPIKE](https://spike.legoeducation.com/essential/start/)
-* [les meilleurs kits robots pour les debutants (article 2020)](https://www.lemonde.fr/guides-d-achat/article/2020/06/13/les-meilleurs-kits-robots-pour-les-debutants_6042730_5306571.html#huit-anchor-notre-premier-choix-)
-* [futurekids](https://futurekids.io/): activités innovantes pour apprendre les sciences informatiques et la robotique en s'amusant ! De 5 à 14 ans.
 * [ROBOSPHERE](https://www.robosphere.net/) : Espace ludactique à la Chaux-de-Fonds
