@@ -51,7 +51,6 @@ Applications & Resources:
   * [application KDE pour l'éducation](https://apps.kde.org/fr/categories/education/)
   * [les explorateurs de l'énergie](https://www.explorateurs-energie.ch/)
   * [Ada & Zangemann, traduction collaborative d’un conte moderne](https://adeaf.net/Ada-Zangemann-traduction-collaborative-d-un-conte-moderne), de 8 à 11 ans
-  * **TODO:** https://doc.edubuntu-fr.org/logiciels#education
   * **TODO:** https://doc.edubuntu-fr.org/education
   * **TODO:** https://doc.edubuntu-fr.org/logiciels_educatifs_pour_les_enfants
     
