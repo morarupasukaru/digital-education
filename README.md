@@ -73,14 +73,12 @@ TODO à repartir entre iClass et initiation à l'informatique
   * TODO: https://www.explorateurs-energie.ch/
 * expositions / musées
   * [ROBOSPHERE](https://www.robosphere.net/) : Espace ludactique à la Chaux-de-Fonds sur la robotique, dès 8 ans
-
+* informatique et programmation
+  * [modulo](https://modulo-info.ch/) pour l'enseignement de l'informatique & programmation au gymnase
 * iClass (exercices scolaires sur l'ordinateur) >>> OPTIONEL
   * [éduclasse](https://www.educlasse.ch/): exercices éducation en ligne
-  * [modulo](https://modulo-info.ch/): Modulo est un catalogue de ressources destiné à l'enseignement et à l'apprentissage de l'informatique au gymnase.
   * [Guide des Ressources Numériques Éducatives](https://primabord.eduscol.education.fr/guide-des-ressources-numeriques-educatives)
   * [iClasse](https://iclasse.rpn.ch/accueil)
-  * [Blogs RPN](https://blogs.rpn.ch/oiso/)
-  * [RPN - éducation numérique - cycle 1 - usages](https://portail.rpn.ch/enseignants/en/pages/msiu-c1-usa.aspx)
 
 ## Choix jeux électroniques
 
